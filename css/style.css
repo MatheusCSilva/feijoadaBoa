@@ -1,0 +1,19 @@
+.contain{
+    padding: 20px !important;
+    margin: none !important;
+}
+
+.col{
+    height: 345px;
+    padding: 10px;
+}
+
+.insideCol{
+    height: 100%;
+    border: 1px solid red;
+    padding: 10px;
+}
+
+.getInside{
+    margin: 0 auto;
+}
